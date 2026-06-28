@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tief-in-meiner-seele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tief in meiner Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tief-in-meiner-seele/) |
+| **Get License** | [License this song: Tief in meiner Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tief-in-meiner-seele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ed24bbec7b01b5fbeac02a9abc2ba5b50091848312b35279c48b5189e97babf3` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

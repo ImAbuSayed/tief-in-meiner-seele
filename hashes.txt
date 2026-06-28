@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tief in meiner Seele
+
+This log tracks the cryptographic history and versioning for the song **Tief in meiner Seele** (tief-in-meiner-seele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T00:26:37.615243 | `v1` | `ed24bbec7b01b5fbeac02a9abc2ba5b50091848312b35279c48b5189e97babf3` | `9cbddc55a15f35a8dd3784ca601a20d4430ac6473ea225365eb5583629cf5599` | `2026-06-29_tief-in-meiner-seele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
