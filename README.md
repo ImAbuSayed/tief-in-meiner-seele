@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tief-in-meiner-seele/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tief in meiner Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tief-in-meiner-seele/) |
+| **Get License** | [Get a Licensing Quote for Tief in meiner Seele](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tief-in-meiner-seele/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter in der City, dein Blick trifft mich wie Blei, ja
+> Tief in meiner Seele spür' ich, du machst mich jetzt frei, ah
+> Mattschwarzer Wagen, du bist genau mein Vibe, Girl
+> Steig ein in den Benz, wir verschwenden keine Zeit, Girl
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
